@@ -15,16 +15,18 @@ class AboutMeNavBar extends Component{
                 <div className="content-wrapper">
                     <div className="home-grid">
                     <div className="home-center">
-                        <div className="title">
-                        <h3>WHO IS THIS GUY? WHAT DOES HE DO?</h3>
+                        <div className="center-container">
+                            <div className="title">
+                            <h3>WHO IS THIS GUY? WHAT DOES HE DO?</h3>
+                            </div>
+                            
+                            <span>
+                            <p>Chinh is an ordinary 22 years old student studying his 4th year at Vamk. 
+                                He is passionate about using his brain and <b>he is actively looking for a trainee
+                                at the moment.</b>
+                            </p>
+                            </span>
                         </div>
-                        
-                        <span>
-                        <p>Chinh is an ordinary 22 years old student studying his 4th year at Vamk. 
-                            He is passionate about using his brain and <b>he is actively looking for a trainee
-                            at the moment.</b>
-                        </p>
-                        </span>
                     </div>
                     <div className="home-top-left">
                         <div className="title">
